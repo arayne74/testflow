@@ -19,6 +19,7 @@ public class BeAGit {
 		// TODO Auto-generated method stub
 		System.out.println( "Gitting it done" );
 		System.out.println( "Gitting it done twice" );
+		System.out.println( "Gitting it done three times" );
 	}
 
 }
