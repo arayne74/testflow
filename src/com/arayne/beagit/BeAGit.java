@@ -20,6 +20,8 @@ public class BeAGit {
 		System.out.println( "Gitting it done" );
 		System.out.println( "Gitting it done twice" );
 		System.out.println( "Gitting it done three times" );
+		
+		//some notes added to the feature 2 branch
 	}
 
 }
