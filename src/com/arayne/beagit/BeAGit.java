@@ -12,7 +12,7 @@ package com.arayne.beagit;
 public class BeAGit {
 
 	/**
-	 * @param args
+	 * @param argssdf
 	 */
 	public static void main( String[] args )
 	{
